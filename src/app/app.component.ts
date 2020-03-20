@@ -9,7 +9,7 @@ import { scan } from 'rxjs/operators';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  public title = 'Damian\'s Project';
+  public name = 'Many\'s Project';
 
 
 public async ngOnInit() {
